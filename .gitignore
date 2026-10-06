@@ -1,0 +1,13 @@
+.venv/
+.jobcard-env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+frontend/node_modules/
+frontend/dist/
+data/uploads/*
+!data/uploads/.gitkeep
+data/output/*
+!data/output/.gitkeep
+*.log
+.DS_Store
